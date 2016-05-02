@@ -39,5 +39,5 @@ Attributes for student-data.csv:
 ## code
  iPython notebook student_intervention.ipynb 
  
- ## write -up
+## write -up
  student_intervention.pdf contains a write-up for the project
